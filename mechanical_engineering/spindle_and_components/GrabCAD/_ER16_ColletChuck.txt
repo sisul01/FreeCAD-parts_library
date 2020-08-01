@@ -1,0 +1,22 @@
+
+
+Model : C20-ER16A-32L-8mm	
+Nut : ER16A type 	
+​	
+Body length : 32mm,contain the nut length is 40mm	
+Shaft hole : 8mm (-0.02mm)
+
+
+ER16 - Collet Chuck and Nut
+
+After uploading my 200W DC motor I was astonished to find that I could not find any model of an ER16 collet chuck holder here. So I constructed the holder that came with the motor.
+According to the seller the model is the "C20-ER16A-32L-8mm".
+
+I intentionally decided to use an oversized holder, so that I have the possibility to clamp for example an edge finder.
+
+Tags:  Nut, Chuck, Collet, ER16, C20-ER16A-32L-8mm, toolholder, Clamp
+
+
+Nach dem Upload meines 200W DC Motors habe ich mit Erstaunen habe ich festgestellt, dass ich hier kein Modell eines ER16 Spannzangenhalters finden konnte. Daher habe ich den mit dem Motoer mitgelieferten Halter auch noch konstruiert.
+Ich habe mich absichtlich für einen überdimensionierten Halter entschieden, damit ich auch die Möglichkeit habe, z. Bsp. einen Kanten-Finder einzuspannen.
+Bei dem Model handelt es sich laut Verkäufer um das Modell "C20-ER16A-32L-8mm".
