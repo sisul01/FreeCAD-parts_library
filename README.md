@@ -4,8 +4,7 @@ Contains various FreeCAD projects
 allgemeines:
 ------------
 Was gehört rein:
-alles was in grösseren Mengen eingekauft werden kann und benötigen mehr als 10 kontrukteure weltweit das teil?
-besonders häufig genutzt werden und daher oft genormt sind und zugekauft werden können
+alles was in grösseren Mengen eingekauft werden kann und benötigen mehr als 10 kontrukteure weltweit das teil besonders häufig genutzt werden und daher oft genormt sind und zugekauft werden können
 
 nur englisch
 nur metrisch
